@@ -1,0 +1,58 @@
+body{
+    font-family: sans-serif;
+    background-color: pink;
+}
+nav{
+    height: 150px;
+    width: auto;
+    color: white;
+    background-color: black;
+    display: flex;
+    
+}
+.tag{
+
+    padding-left: 100px;
+ text-decoration: none;
+    padding-top: 50px; 
+
+}
+.heading{
+    text-align: center;
+   
+   
+
+   
+    
+}
+p{
+    font-size: 22px;
+}
+img{
+    height: 500px;
+    width: 800px;
+    padding-left: 250px;
+}
+.btn{
+    color: white;
+    background-color: gold;
+    font-size: 30px;
+    margin-left: 600px;
+    
+}
+h3{
+    font-size: 35px;
+    padding-left: 490px;
+    color: white;
+    padding-top: 50px;
+}
+footer{
+    height: 150px;
+    width: 100%;
+    background-color: black;
+}
+a{
+    text-decoration: none;
+    color: white;
+
+}
